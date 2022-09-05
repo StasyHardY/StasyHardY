@@ -4,7 +4,7 @@
 # Стек технологий 
 
 ## Frontend 
-HTML, CSS, JS + React/Redux
+HTML, CSS, JS + React/Redux/Toolkit
 
 ## Backend 
 NodeJs, Express.js
