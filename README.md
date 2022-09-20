@@ -1,5 +1,5 @@
 
-Меня зовут Клевогин Максим, опыт в программировании 2 года
+Hello everyone, опыт в программировании 2 года
 
 Диплом об окончании курса - [772050174d7b411c3dcd0b5aae7ceb15.pdf](https://github.com/StasyHardY/StasyHardY/files/9546236/772050174d7b411c3dcd0b5aae7ceb15.pdf)
 
