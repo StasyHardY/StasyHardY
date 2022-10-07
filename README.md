@@ -7,7 +7,7 @@ Hello everyone
 HTML, CSS, JS + React/Redux/Toolkit, TypeScript, Tailwind, Bootstrap, Git, Eslint
 
 ## Backend 
-NodeJs, NestJs, Express.js, MongoDB
+NodeJs, NestJs, Express.js, MongoDB, Unit testing
 
 ## Контакты
 
